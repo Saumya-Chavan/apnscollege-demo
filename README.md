@@ -1,2 +1,3 @@
 # apnscollege-demo
-This is my first repository
+This is my first Git repository.
+Created by-Saumya Chavan.
